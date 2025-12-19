@@ -15,3 +15,4 @@ visualize ideas and manage complex scenes. These skills will be useful in both m
 
 
 The full 3D scene project is included in this repository as 7-1_Final_Project.zip.
+The Design Decisions document is included in this repository as 7-1 Final Project Submission_Design Decisions.docx.
